@@ -1,0 +1,1 @@
+# magent2-module-template
